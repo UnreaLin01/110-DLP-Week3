@@ -1,0 +1,7 @@
+ENTITY Class03 IS
+	PORT(
+		sw: IN BIT_VECTOR(8 downto 0);
+		seg3: OUT BIT_VECTOR(6 downto 0);
+		seg2: OUT BIT_VECTOR(6 downto 0);
+		seg1: OUT BIT_VECTOR(6 downto)
+		)
