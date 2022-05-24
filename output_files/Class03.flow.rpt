@@ -1,5 +1,5 @@
 Flow report for Class03
-Thu May 19 22:07:37 2022
+Tue May 24 16:12:07 2022
 Quartus II 64-Bit Version 13.1.0 Build 162 10/23/2013 SJ Web Edition
 
 
@@ -40,7 +40,7 @@ applicable agreement for further details.
 +---------------------------------------------------------------------------------+
 ; Flow Summary                                                                    ;
 +------------------------------------+--------------------------------------------+
-; Flow Status                        ; Successful - Thu May 19 22:07:37 2022      ;
+; Flow Status                        ; Successful - Tue May 24 16:12:07 2022      ;
 ; Quartus II 64-Bit Version          ; 13.1.0 Build 162 10/23/2013 SJ Web Edition ;
 ; Revision Name                      ; Class03                                    ;
 ; Top-level Entity Name              ; Class03                                    ;
@@ -64,7 +64,7 @@ applicable agreement for further details.
 +-------------------+---------------------+
 ; Option            ; Setting             ;
 +-------------------+---------------------+
-; Start date & time ; 05/19/2022 22:07:17 ;
+; Start date & time ; 05/24/2022 16:11:48 ;
 ; Main task         ; Compilation         ;
 ; Revision Name     ; Class03             ;
 +-------------------+---------------------+
@@ -75,7 +75,7 @@ applicable agreement for further details.
 +-------------------------------------+------------------------------+---------------+-------------+----------------+
 ; Assignment Name                     ; Value                        ; Default Value ; Entity Name ; Section Id     ;
 +-------------------------------------+------------------------------+---------------+-------------+----------------+
-; COMPILER_SIGNATURE_ID               ; 929340966050.165296923723924 ; --            ; --          ; --             ;
+; COMPILER_SIGNATURE_ID               ; 929340966050.165337990809588 ; --            ; --          ; --             ;
 ; EDA_OUTPUT_DATA_FORMAT              ; Vhdl                         ; --            ; --          ; eda_simulation ;
 ; EDA_SIMULATION_TOOL                 ; ModelSim-Altera (VHDL)       ; <None>        ; --          ; --             ;
 ; MAX_CORE_JUNCTION_TEMP              ; 85                           ; --            ; --          ; --             ;
@@ -93,10 +93,10 @@ applicable agreement for further details.
 +---------------------------+--------------+-------------------------+---------------------+------------------------------------+
 ; Module Name               ; Elapsed Time ; Average Processors Used ; Peak Virtual Memory ; Total CPU Time (on all processors) ;
 +---------------------------+--------------+-------------------------+---------------------+------------------------------------+
-; Analysis & Synthesis      ; 00:00:02     ; 1.0                     ; 4652 MB             ; 00:00:02                           ;
-; Fitter                    ; 00:00:07     ; 1.0                     ; 4947 MB             ; 00:00:06                           ;
-; Assembler                 ; 00:00:01     ; 1.0                     ; 4574 MB             ; 00:00:01                           ;
-; TimeQuest Timing Analyzer ; 00:00:02     ; 1.0                     ; 4626 MB             ; 00:00:03                           ;
+; Analysis & Synthesis      ; 00:00:02     ; 1.0                     ; 4651 MB             ; 00:00:02                           ;
+; Fitter                    ; 00:00:06     ; 1.0                     ; 4952 MB             ; 00:00:06                           ;
+; Assembler                 ; 00:00:01     ; 1.0                     ; 4580 MB             ; 00:00:01                           ;
+; TimeQuest Timing Analyzer ; 00:00:03     ; 1.0                     ; 4612 MB             ; 00:00:03                           ;
 ; EDA Netlist Writer        ; 00:00:01     ; 1.0                     ; 4532 MB             ; 00:00:01                           ;
 ; Total                     ; 00:00:13     ; --                      ; --                  ; 00:00:13                           ;
 +---------------------------+--------------+-------------------------+---------------------+------------------------------------+
