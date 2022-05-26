@@ -1,3 +1,9 @@
+--Taipei Tech Electronic Engineering Dep.
+--110360120 林冠羽
+--110360119 黃俊霖
+--110360134 楊錦坤
+--110360155 羅寶娜
+
 ENTITY Class03 IS
 	PORT(
 		sw: IN BIT_VECTOR(8 downto 0);
